@@ -27,10 +27,10 @@
 
 | Feature | Preview |
 |--------|---------|
-| 🧪 Scanning & Detection | ![Scan Detection]() |
+| 🧪 Scanning & Detection | ![Screenshot 2025-05-21 193321](https://github.com/user-attachments/assets/7c488048-0857-4baf-b57e-3eb8bd7f3ffd)
+ |
 | 💾 GUI Interface | ![Screenshot 2025-05-21 193147](https://github.com/user-attachments/assets/94900325-64f1-481e-b9c7-78b1108eab95)
 media/xT0xeJpnrWC4XWblEk/giphy.gif) |
-| 📊 Alerts Log | ![Log Preview](https://media.giphy.com/media/3oEduWv5W8QwnJf9Ic/giphy.gif) |
 
 ---
 
